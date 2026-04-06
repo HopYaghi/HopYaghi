@@ -1,13 +1,7 @@
 
 <img src="https://i.pinimg.com/1200x/4d/79/d6/4d79d6bef684367052b409e2ef9a9ede.jpg" width="100%" />
 
-##  Quem Sou Eu
 
-- Atualmente cursando Ciência da Computação na Universidade Federal do Pará (1/8)  
-- 2008, 18y  
-
-
-## Tech Stack
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" />
