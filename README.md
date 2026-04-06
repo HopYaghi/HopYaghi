@@ -3,6 +3,7 @@
 - 2008, 18y
 
 ### Tech Stack
+---
 <p align="left">
   <img src="https://cdn.simpleicons.org/node.js/FFFFFF" width="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
