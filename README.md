@@ -4,7 +4,7 @@
 
 
 
-# ***Tech Stack***
+# ***Tech Stacks***
 
 <br>
 
