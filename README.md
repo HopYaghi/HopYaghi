@@ -1,12 +1,12 @@
-<div align="center">
 
-###  Quem Sou Eu
+
+##  Quem Sou Eu
 
 - Atualmente cursando Ciência da Computação na Universidade Federal do Pará (1/8)  
 - 2008, 18y  
 
 
-###  Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://cdn.simpleicons.org/node.js/FFFFFF" width="40" />
@@ -18,4 +18,4 @@
   <img src="https://cdn.simpleicons.org/supabase/FFFFFF" width="40" />
 </p>
 
-</div>
+
