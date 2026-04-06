@@ -1,7 +1,8 @@
-### 🎓 Formação
-Atualmente cursando Ciência da Computação na Universidade Federal do Pará (1/8)
+###  Quem Sou Eu
+- Atualmente cursando Ciência da Computação na Universidade Federal do Pará (1/8)
+- 2008
 
-### 🚀 Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://cdn.simpleicons.org/node.js/FFFFFF" width="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
