@@ -1,10 +1,12 @@
 ## Sobre mim
-
 - Atualmente cursando Ciëncia da Computação na Universidade Federal do Pará
 - 2008, 18yo
-- Estudando desenvolvimento web e automações de tarefas pequenas
+
+<br> 
 
 ## Tech Stack
+
+<br>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" />
