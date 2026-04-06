@@ -1,10 +1,10 @@
-## Sobre mim
+# ***About Me***
 - Atualmente cursando Ciëncia da Computação na Universidade Federal do Pará
 - 2008, 18yo
 
-<br> 
 
-## Tech Stack
+
+# ***Tech Stack***
 
 <br>
 
