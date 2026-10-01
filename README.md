@@ -3,9 +3,9 @@
 <h3 align="center">Currently focused on</h3>
 
 <p align="center">
-  🔧 Building apps with Meta's developer tools<br>
-  🤖 Solving problems with AI agents<br>
-  🌐 Web apps — less often, but still essential
+  Currently Building apps with Meta's developer tools<br>
+  Solving problems with AI agents<br>
+  And Web apps. less often, but still essentialll
 </p>
 
 <h3 align="center">Main stack</h3>
