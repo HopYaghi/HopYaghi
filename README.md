@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Gabriel Yaghi <a href="https://emoji.gg/emoji/572887-im-done"><img src="https://cdn3.emoji.gg/emojis/572887-im-done.png" width="40" height="40" align="absmiddle" alt="Im_done"></a>
+  Hi, I'm Gabriel Yaghi 
 </h1>
 
 <h3 align="center">Currently focused on</h3>
